@@ -1,0 +1,4 @@
+name: GlassBreak
+version: 1.0
+main: me.rixv.glassBreak.GlassBreak
+api-version: 1.19

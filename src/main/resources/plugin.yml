@@ -1,0 +1,4 @@
+name: GlassBreak
+version: ${project.version}
+main: me.rixv.glassBreak.GlassBreak
+api-version: 1.19
